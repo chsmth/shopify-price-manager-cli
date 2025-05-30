@@ -98,4 +98,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by CHSMTH
++-------------------------+
+| Built with ❤️ by chsmth |
++-------------------------+
